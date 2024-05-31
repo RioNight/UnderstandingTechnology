@@ -1,0 +1,2 @@
+In my paper, "Understanding Technology," I examine the relationship between humans and technology through the lenses of Plato, Heidegger, and contemporary AI discourse and their connections.
+From Plato's skepticism towards writing to Heidegger's concern about technology's impact on human purpose, and finally, the overlooked environmental consequences of our technological advancements, I navigate through philosophical critiques and real-world implications, shedding light on the complex dynamics shaping our technological landscape.
